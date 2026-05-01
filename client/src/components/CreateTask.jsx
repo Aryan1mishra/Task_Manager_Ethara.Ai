@@ -5,7 +5,7 @@ const CreateTask = () => {
   const createTask = async () => {
     try {
       const res = await axios.post(
-        "http://localhost:8800/api/task",
+        "https://task-manager-ethara-ai.onrender.com/api/task",
         {
           title: "Test Task",
           description: "Test",
