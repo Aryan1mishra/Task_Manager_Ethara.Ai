@@ -17,7 +17,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: ["task-manager-etharaai.vercel.app", "http://localhost:3000"],
+    origin: ["task-manager-ethara-ai-3jud.vercel.app", "http://localhost:3000"],
     methods: ["GET", "POST", "DELETE", "PUT"],
     credentials: true,
   })
