@@ -18,7 +18,8 @@ This app helps users efficiently manage tasks with features like creation, track
 
 📱 Responsive UI
 
-👉 These are standard features in MERN task apps such as CRUD operations and authentication.
+👥 Admin and user panel
+
 ----------------------------------------------------------------------------------------------------------------
 
 # 🛠️ Tech Stack
